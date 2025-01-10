@@ -21,6 +21,9 @@ jobs:
           GIST_ID: 22c5408bed0268e60d5faf7fbcc66e3b
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           STEAM_ID: ${{ secrets.STEAM_ID }}
+          UPDATE_OPTION: GIST_AND_MARKDOWN
+          MARKDOWN_FILE: README.md
+          
     steps:
 
     - name: Set up Go 1.x
