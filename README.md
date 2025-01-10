@@ -18,7 +18,7 @@ English | [简体中文](./README_zh.md)
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
 
-## 💻 Setup
+## 💻  Setup
 
 ### 🎒 Prep work
 > if only want's to update a markdown,like profile README,skip step 1 and step 2.
